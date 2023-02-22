@@ -1,7 +1,7 @@
 # primeirosite
 Bem vindo!!!
 
-Esse é meu primeiro grande projeto em HTML/CSS, usando conhecimentos adquiridos com o professor Gustavo Guanabara via CursoEmVideo.
+Esse é meu primeiro grande projeto em HTML/CSS, usando conhecimentos adquiridos com o professor Gustavo Guanabara via Curso Em Video.
 
 O projeto se trata de um site explicando a origem da plataforma Android, com layouts responsivos e todo o básico de CSS.
 
